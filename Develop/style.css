@@ -73,7 +73,7 @@ textarea {
 }
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
-@media screen and (max-width: 750px) {
+@mediascreen and (max-width: 750px) {
   .saveBtn {
     height: 40px;
   }
