@@ -1,8 +1,8 @@
 # Work Day Scheduler Starter Code
 
-GitHub:
+GitHub: https://github.com/MLLynch2K
 
-Deployed Application:
+Deployed Application: https://mllynch2k.github.io/work-day-scheduler/
 
 Screenshot:
 
