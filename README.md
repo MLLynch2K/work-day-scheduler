@@ -4,7 +4,7 @@ GitHub: https://github.com/MLLynch2K
 
 Deployed Application: https://mllynch2k.github.io/work-day-scheduler/
 
-Screenshot:
+Screenshot:https://courses.bootcampspot.com/courses/320/files/311947/download
 
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
